@@ -216,7 +216,7 @@
 		<snapshotRepository>
 		<id>deploymentRepo</id>
 		<name>Internal Releases</name>
-		<url>http://http://34.66.174.11:9090/repository/maven-snapshots/</url>
+		<url>http://35.188.201.171:8081/repository/sample_test_snapshot/</url>
 	</snapshotRepository>
 	
 </distributionManagement>
