@@ -18,7 +18,8 @@ pipleline{
           steps{
           sh 'mvn clean compile'
           }
-         } 
+       } 
+   } 
           
 
         
